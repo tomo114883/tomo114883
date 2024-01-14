@@ -1,4 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Taiga Tomonaga</h1>
+<h3 align="center">A student developer from Japan</h3>
+
+- 🔭 I’m currently working on [kenzennasns](https://kenzennasns-4a60d61cd13b.herokuapp.com/login)
+
+<h4>test acount</h4>
+<p>name: sample</p>
+<p>Email: SampleEmail@gmail.com</p>
+<p>Password: SamplePassword123</p>
+
+- 🌱 I’m currently learning **laravel**
+
+<p align="left">
+</p>
 
 <!--
 **Litmus4883/Litmus4883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
