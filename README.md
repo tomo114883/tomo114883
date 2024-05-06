@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Taiga Tomonaga</h1>
 <h3 align="center">A student developer from Japan</h3>
 
-- 🔭 I’m currently working on [kenzennasns](https://kenzennasns-4a60d61cd13b.herokuapp.com/login)
+<h2>My social acounts</h2>
+- [Qiita](https://qiita.com/taigatomonaga)
+- [note](https://note.com/noted_rail7734/)
 
-<h4>test acount</h4>
-<p>name: sample</p>
-<p>Email: SampleEmail@gmail.com</p>
-<p>Password: SamplePassword123</p>
+## 🔭 I’m currently working on [kenzennasns](https://kenzennasns-4a60d61cd13b.herokuapp.com/login)
+
+<p>test acount</p>
+- name: sample
+- Email: SampleEmail@gmail.com
+- Password: SamplePassword123
 
 - 🌱 I’m currently learning **laravel**
 
