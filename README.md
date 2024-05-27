@@ -2,7 +2,7 @@
 <h3 align="center">A student developer from Japan</h3>
 
 <p align="left"> 
-  <img alt="Top Langs" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litmus4883&show_icons=true" />
+  <img alt="Top Langs" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litmus4883&show_icons=true" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Litmus4883&show_icons=ture" />
 </p>
 
