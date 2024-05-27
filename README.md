@@ -6,7 +6,7 @@
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Litmus4883&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Litmus4883)](https://github.com/Litmus4883/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Litmus4883&column=6)](https://github.com/Litmus4883/github-profile-trophy)
 
 ### 🌱 I’m currently learning **PHP** and **TypeScript**.
 
