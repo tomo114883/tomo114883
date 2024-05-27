@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Taiga Tomonaga</h1>
 <h3 align="center">A student developer from Japan</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litmus4883&show_icons=true" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Litmus4883&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Litmus4883&column=6)](https://github.com/Litmus4883/github-profile-trophy)
+<p align="center">
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=Litmus4883&column=6" />
+  
+</p>
+
 
 ### 🌱 I’m currently learning **PHP** and **TypeScript**.
 
