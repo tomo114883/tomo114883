@@ -11,15 +11,12 @@
 
 ### 🔭 I’m currently working on [kenzennasns](https://kenzennasns-4a60d61cd13b.herokuapp.com/login)
 
-[ **TEST-ACCOUNT** ] 
+~~[ **TEST-ACCOUNT** ]~~
 
-- **name**: sample
-- **Email**: SampleEmail@gmail.com
-- **Password**: SamplePassword123
+- ~~**name**: sample~~
+- ~~**Email**: SampleEmail@gmail.com~~
+- ~~**Password**: SamplePassword123~~
 
-
-<p align="left">
-</p>
 
 <!--
 **Litmus4883/Litmus4883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
