@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litmus4883&show_icons=true" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Litmus4883&show_icons=ture" />
+  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=Litmus4883&show_icons=ture" />
 </p>
 
 ### 🌱 I’m currently learning **PHP** and **TypeScript**.
@@ -11,11 +11,11 @@
 
 ### 🔭 I’m currently working on [kenzennasns](https://kenzennasns-4a60d61cd13b.herokuapp.com/login)
 
-[ **test acount** ] 
+[ **TEST-ACCOUNT** ] 
 
-- name: sample
-- Email: SampleEmail@gmail.com
-- Password: SamplePassword123
+- **name**: sample
+- **Email**: SampleEmail@gmail.com
+- **Password**: SamplePassword123
 
 
 <p align="left">
