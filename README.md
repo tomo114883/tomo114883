@@ -4,6 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Litmus4883
 )](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Litmus4883)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔭 I’m currently working on [kenzennasns](https://kenzennasns-4a60d61cd13b.herokuapp.com/login)
 
