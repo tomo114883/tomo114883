@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Taiga Tomonaga</h2>
 <h3 align="center">A Student Developer majoring in Economics from Japan</h3>
-<p align="center">I’m currently learning Java.</p>
+<p align="center">I’m currently learning Java.🔥</p>
 
 <p align="center"> 
   <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomo114883&show_icons=true" />
